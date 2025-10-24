@@ -1,0 +1,11 @@
+{
+  "name": "Cafeteria TNC",
+  "short_name": "TNC Café",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#2B1E1A",
+  "theme_color": "#C9A227",
+  "icons": [
+    { "src": "/favicons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
